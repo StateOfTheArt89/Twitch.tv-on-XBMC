@@ -21,4 +21,4 @@ before_script:
     cd $HOME
 
 script:
-  - kodi-addon-checker $TRAVIS_BUILD_DIR --branch=isengard --allow-folder-id-mismatch
+  - kodi-addon-checker $TRAVIS_BUILD_DIR --branch=matrix --allow-folder-id-mismatch
