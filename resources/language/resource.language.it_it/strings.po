@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2016-09-18 00:54+0000\n"
-"PO-Revision-Date: 2023-06-28 11:42+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2024-06-29 09:22+0000\n"
+"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-video/plugin-video-twitch/it_it/>\n"
 "Language: it_it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18\n"
+"X-Generator: Weblate 5.6\n"
 
 msgctxt "Addon Summary"
 msgid "Twitch video plugin"
@@ -19,7 +19,7 @@ msgstr "Plugin video Twitch"
 
 msgctxt "Addon Description"
 msgid "Watch your favorite gaming streams!"
-msgstr ""
+msgstr "Guarda in streaming i tuoi giochi preferiti!"
 
 msgctxt "#30001"
 msgid "Games"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgctxt "#30007"
 msgid "Search for channels"
-msgstr ""
+msgstr "Cerca canali"
 
 msgctxt "#30008"
 msgid "Channels"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "TwitchTV"
-msgstr ""
+msgstr "Twitch TV"
 
 msgctxt "#30011"
 msgid "next page..."
@@ -100,11 +100,11 @@ msgstr ""
 
 msgctxt "#30026"
 msgid "TwitchApi error"
-msgstr ""
+msgstr "Errore TwitchApi"
 
 msgctxt "#30027"
 msgid "JSON error"
-msgstr ""
+msgstr "Errore JSON"
 
 msgctxt "#30028"
 msgid "Failed to parse the result set"
@@ -203,15 +203,15 @@ msgstr ""
 
 msgctxt "#30070"
 msgid "TV Shows"
-msgstr ""
+msgstr "Serie TV"
 
 msgctxt "#30071"
 msgid "Movies"
-msgstr ""
+msgstr "Film"
 
 msgctxt "#30072"
 msgid "Episodes"
-msgstr ""
+msgstr "Episodi"
 
 msgctxt "#30073"
 msgid "Music Videos"
@@ -331,7 +331,7 @@ msgstr ""
 
 msgctxt "#30102"
 msgid "Source"
-msgstr ""
+msgstr "Sorgente"
 
 msgctxt "#30103"
 msgid "1080p60"
@@ -463,11 +463,11 @@ msgstr ""
 
 msgctxt "#30136"
 msgid "Always ask"
-msgstr ""
+msgstr "Chiedi sempre"
 
 msgctxt "#30138"
 msgid "*** Do NOT share your OAuth token. ***"
-msgstr ""
+msgstr "*** NON condividere il tuo token OAuth. ***"
 
 msgctxt "#30139"
 msgid "Toggle follow"
@@ -475,11 +475,11 @@ msgstr ""
 
 msgctxt "#30140"
 msgid "Now following %s"
-msgstr ""
+msgstr "Ora seguo %s"
 
 msgctxt "#30141"
 msgid "Unfollowed %s"
-msgstr ""
+msgstr "%s non seguito"
 
 msgctxt "#30142"
 msgid "Redirect URI"
@@ -499,27 +499,27 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "Blocked %s"
-msgstr ""
+msgstr "%s bloccato"
 
 msgctxt "#30147"
 msgid "Unblocked %s"
-msgstr ""
+msgstr "%s sbloccato"
 
 msgctxt "#30148"
 msgid "Would you like to block %s?"
-msgstr ""
+msgstr "Vuoi bloccare %s?"
 
 msgctxt "#30149"
 msgid "Are you sure you want to unblock %s?"
-msgstr ""
+msgstr "Sei sicuro di voler sbloccare %s?"
 
 msgctxt "#30150"
 msgid "Blacklist %s"
-msgstr ""
+msgstr "Lista nera %s"
 
 msgctxt "#30151"
 msgid "Blacklisted %s"
-msgstr ""
+msgstr "%s inserito nella lista nera"
 
 msgctxt "#30152"
 msgid "Lists"
@@ -531,7 +531,7 @@ msgstr "Lista nera"
 
 msgctxt "#30154"
 msgid "Remove a user"
-msgstr "Cancellare utente"
+msgstr "Rimuovi utente"
 
 msgctxt "#30155"
 msgid "Remove a game"
@@ -659,11 +659,11 @@ msgstr ""
 
 msgctxt "#30188"
 msgid "Views"
-msgstr ""
+msgstr "Visualizzazioni"
 
 msgctxt "#30189"
 msgid "Add a language"
-msgstr ""
+msgstr "Aggiungi una lingua"
 
 msgctxt "#30190"
 msgid "Remove a language"
@@ -751,7 +751,7 @@ msgstr ""
 
 msgctxt "#30211"
 msgid "Enabled"
-msgstr ""
+msgstr "Abilitato"
 
 msgctxt "#30212"
 msgid "Failed to connect to Twitch API"
@@ -791,7 +791,7 @@ msgstr ""
 
 msgctxt "#30221"
 msgid "Unknown"
-msgstr ""
+msgstr "Sconosciuto"
 
 msgctxt "#30222"
 msgid "VODCast highlight color"
@@ -851,7 +851,7 @@ msgstr "Nuova ricerca"
 
 msgctxt "#30236"
 msgid "Search history size"
-msgstr "Dimensione Cronologia ricerca"
+msgstr "Dimensione cronologia ricerche"
 
 msgctxt "#30237"
 msgid "Clear search history?"
@@ -863,11 +863,11 @@ msgstr ""
 
 msgctxt "#30239"
 msgid "Remove %s"
-msgstr ""
+msgstr "Rimuovi %s"
 
 msgctxt "#30240"
 msgid "Clear search history"
-msgstr "Pulisci la cronologia delle ricerche"
+msgstr "Pulisci cronologia ricerche"
 
 msgctxt "#30241"
 msgid "Search history cleared"
